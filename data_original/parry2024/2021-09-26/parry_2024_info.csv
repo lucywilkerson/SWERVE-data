@@ -1,5 +1,3 @@
 ﻿site_id,geo_lat,geo_lon,data_type,notes
-Ellerslie 1,53.434,-113.46,GIC,"Hall probe GIC, lat/lon from paper"
-Ellerslie 2,53.434,-113.46,GIC,"Hall probe GIC, lat/lon from paper"
 Alberta line,53.47,-113.33,DMM,"DMM GIC, lat/lon approximated using map in paper"
 Alberta ref,53.47,-113.33,DMM,"DMM GIC, lat/lon approximated using map in paper"

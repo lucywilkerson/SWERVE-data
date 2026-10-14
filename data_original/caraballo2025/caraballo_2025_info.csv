@@ -1,0 +1,5 @@
+site_id,geo_lat,geo_lon,notes
+MZT,23.19,-106.35,"lat/lon given in paper"
+LAV,19.72,-96.41,"lat/lon given in paper"
+RMY,20.83,-86.93,"lat/lon given in paper"
+QRO,20.64, -100.44,"lat/lon estimated from map, site not analyzed in paper"

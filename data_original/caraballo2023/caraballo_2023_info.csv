@@ -1,0 +1,4 @@
+site_id,geo_lat,geo_lon,data_type,notes
+LAV,19.72,-96.41,GIC,"lat/lon estimated from map in paper"
+QRP,20.53,-100.49,GIC,"lat/lon estimated from map, data not included in paper"
+TUC,32.1745,-110.7337,B,"lat/lon given by USGS (https://www.usgs.gov/programs/geomagnetism/science/tucson-tuc)"

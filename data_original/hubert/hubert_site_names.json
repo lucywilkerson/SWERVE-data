@@ -1,0 +1,14 @@
+{
+    "ASB": {"name": "Abbey St Bathans", "number": 133965},
+    "BRA": {"name": "Brandon Parva", "number": 171458},
+    "BUD": {"name": "Bude", "number": 171372},
+    "CAR": {"name": "Carnforth"},
+    "DAL": {"name": "Dalry", "number": 171373},
+    "EAS": {"name": "East Kilbride", "number": 171374},
+    "ILD": {"name": "Ilderton", "number": 163285},
+    "LLA": {"name": "Llannon"},
+    "KNA": {"name": "Knayton", "number": 163330},
+    "TOP": {"name": "Toppesfield", "number": 171375},
+    "TRO": {"name": "Trofarth", "number": 182191},
+    "WHI": {"name": "Whiteadder Moor", "number": 134025}
+}

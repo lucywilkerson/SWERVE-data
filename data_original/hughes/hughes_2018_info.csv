@@ -1,0 +1,10 @@
+site,geo_lat,geo_lon,notes
+Bu,36.0193,-84.1575,"lat/lon given by TVA"
+Me,37.26,-86.98,"lat/lon estimated from map in Hughes paper"
+Mo,36.5949,-87.2533,"lat/lon given by TVA"
+Pa,39.07, -78.28,"lat/lon estimated from map in Hughes paper"
+Ru,35.8275,-86.5986,"lat/lon given by TVA"
+Sh,35.3859,-89.8042,"lat/lon given by TVA"
+Su,36.4419,-82.2791,"lat/lon given by TVA"
+Vi,34.04, -117.32,"lat/lon estimated from map in Hughes paper"
+We,36.2752,-88.8347,"lat/lon given by TVA"

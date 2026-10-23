@@ -1,11 +1,11 @@
 {
-    "Bu": {"name": "Bull Run", "node": 3},
-    "Me": {"name": "", "node": 7},
-    "Mo": {"name": "Montgomery", "node": 5},
-    "Pa": {"name": "", "node": 6},
-    "Ru": {"name": "Rutherford", "node": null},
-    "Sh": {"name": "Shelby", "node": 2},
-    "Su": {"name": "Sullivan", "node": null},
-    "Vi": {"name": "Vista", "node": 1},
-    "We": {"name": "Weakly", "node": 4}
+    "Bu": {"node": 3},
+    "Me": {"node": 7},
+    "Mo": {"node": 5},
+    "Pa": {"node": 6},
+    "Ru": {"node": null},
+    "Sh": {"node": 2},
+    "Su": {"node": null},
+    "Vi": {"node": 1},
+    "We": {"node": 4}
 }

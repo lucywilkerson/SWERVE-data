@@ -1,4 +1,6 @@
 {
+    "source_name": "Caraballo2025",
+    "source_type": "event_partitioned",
     "paper_doi": "10.1029/2024GL112749",
     "data_doi": "10.17605/OSF.IO/AV9HT"
 }

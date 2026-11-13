@@ -1,4 +1,6 @@
 {
+    "source_name": "Bailey",
+    "source_type": "event_partitioned",
     "paper_doi": "10.1029/2021SW002907",
     "data_doi": "10.6084/m9.figshare.19102772"
 }

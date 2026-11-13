@@ -1,4 +1,6 @@
 {
+    "source_name": "NERC",
+    "source_type": "event_partitioned",
     "paper_doi": null,
     "data_doi": "NERC ERO"
 }

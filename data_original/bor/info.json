@@ -1,6 +1,6 @@
 {
     "source_name": "Bor",
     "source_type": "event_partitioned",
-    "paper_doi": null,
-    "data_doi": null
+    "paper_doi": "10.1029/2026SW005166",
+    "data_doi": "10.5281/ZENODO.20090223"
 }

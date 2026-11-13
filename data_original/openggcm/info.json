@@ -1,6 +1,6 @@
 {
     "source_name": "OpenGGCM",
     "source_type": "event_partitioned",
-    "paper_doi": null,
-    "data_doi": null
+    "paper_doi": ["10.1007/978-0-387-89820-9_22", "10.1029/2025SW004758"],
+    "data_doi": ["10.5281/ZENODO.20090223"]
 }

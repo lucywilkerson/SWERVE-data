@@ -1,6 +1,6 @@
 {
     "source_name": "MAGE",
     "source_type": "event_partitioned",
-    "paper_doi": null,
-    "data_doi": null
+    "paper_doi": ["10.1029/2025SW004758"],
+    "data_doi": ["10.5281/ZENODO.20090223","10.5281/ZENODO.16818620"]
 }

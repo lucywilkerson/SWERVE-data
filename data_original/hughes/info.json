@@ -1,6 +1,8 @@
 {
     "source_name": "Hughes",
     "source_type": "annual",
+    "source_continent": "NA",
+    "source_country": "USA",
     "paper_doi": ["10.1029/2021SW002727", "10.1029/2021SW002729"],
     "data_doi": "10.5281/zenodo.4444067"
 }

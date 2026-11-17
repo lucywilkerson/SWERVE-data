@@ -1,6 +1,8 @@
 {
     "source_name": "Marsal2025",
     "source_type": "event_partitioned",
+    "source_continent": "EU",
+    "source_country": "ESP",
     "paper_doi": "10.1029/2024SW004180",
     "data_doi": "10.34810/DATA1741"
 }

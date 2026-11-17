@@ -1,6 +1,8 @@
 {
     "source_name": "Caraballo2023",
     "source_type": "annual",
+    "source_continent": "NA",
+    "source_country": "MEX",
     "paper_doi": "10.1029/2022SW003202",
     "data_doi": "10.17605/OSF.IO/AV9HT"
 }

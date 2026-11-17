@@ -1,6 +1,8 @@
 {
     "source_name": "SWUG",
     "source_type": "event_partitioned",
+    "source_continent": "NA",
+    "source_country": "USA",
     "paper_doi": "10.33548/SCIENTIA542",
     "data_doi": "10.33548/SCIENTIA542"
 }

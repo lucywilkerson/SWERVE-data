@@ -1,6 +1,8 @@
 {
     "source_name": "NERC",
     "source_type": "event_partitioned",
+    "source_continent": "NA",
+    "source_country": "USA",
     "paper_doi": null,
     "data_doi": "NERC ERO"
 }
